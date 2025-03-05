@@ -45,7 +45,6 @@ One of the biggest frustrations with other AI tools is being stuck with a single
 
 This flexibility means I can pick the best model for the job—whether I’m writing a detailed blog post or generating a quick social media graphic.
 
-*Prompt for AI Image: "Create a colorful infographic showing four AI models (DeepSeek, GPT-4 Turbo, Claude 3, Gemini Pro) with icons representing their strengths—like a pen for writing, a brain for reasoning, and a chat bubble for conversation."*
 
 ### 2. AI-Powered Content Creation
 
@@ -67,7 +66,6 @@ Visuals are everything in marketing, and Workforce AI delivers here too. I’ve 
 
 These tools are intuitive and fast, making it easy to produce professional-grade visuals without hiring a designer.
 
-*Prompt for AI Image: "Generate a vibrant scene of a small business owner editing a sleek product video on a laptop, with AI-generated visuals popping out of the screen."*
 
 ### 4. AI Voiceovers and Voice Cloning
 
